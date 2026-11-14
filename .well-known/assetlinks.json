@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alykich.alyou",
+        "sha256_cert_fingerprints": ["0B:B1:D2:3A:55:DD:07:BE:84:46:0B:0E:65:7B:8E:87:C6:A2:AE:B6:BB:71:35:83:D2:96:D5:72:AD:14:96:D4"]
+      }
+    }]
